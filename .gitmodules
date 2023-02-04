@@ -1,0 +1,24 @@
+[submodule "xun"]
+	path = xun
+	url = git@github.com:wwsheng009/xun.git
+[submodule "yao"]
+	path = yao
+	url = git@github.com:wwsheng009/yao.git
+[submodule "xgen"]
+	path = xgen
+	url = git@github.com:wwsheng009/xgen.git
+[submodule "kun"]
+	path = kun
+	url = git@github.com:wwsheng009/kun.git
+[submodule "gou"]
+	path = gou
+	url = git@github.com:wwsheng009/gou.git
+[submodule "go-hdb"]
+	path = go-hdb
+	url = git@github.com:wwsheng009/go-hdb.git
+[submodule "v8go"]
+	path = v8go
+	url = https://github.com/YaoApp/v8go.git
+[submodule "xgen-v0.9"]
+	path = xgen-v0.9
+	url = https://github.com/YaoApp/xgen-deprecated.git
